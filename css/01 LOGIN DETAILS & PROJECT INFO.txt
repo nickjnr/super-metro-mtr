@@ -2,7 +2,7 @@
 
 **Database Name: vehiclebookings**
 
-**Developed by Martin Mbithi Nzilani**
+**Developed by Nicholas Muinde**
 
 **Recommended PHP Version 5.6, 7.4**
 
